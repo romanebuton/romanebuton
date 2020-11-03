@@ -1,6 +1,6 @@
 
 h1{
-  font-family:'Bebas Neue', cursive;
+  font-family: Le Murmure;
   color: black;
   font-size: 500%;
   font-weight:lighter;
@@ -30,7 +30,7 @@ div#bandeau1 {
 h3#titreloup{
   color: white;
   position: absolute;
-  font-family:'Bebas Neue', cursive;
+  font-family: Le Murmure;
   font-size: 900%;
   padding-left: 6.5%;
   margin-top: 2.2%;
@@ -41,7 +41,7 @@ p#paraloup{
     color: white;
     font-family:'Bebas Neue', cursive;
     font-size: 120%;
-    padding-top: 12%;
+    padding-top: 15%;
     padding-left: 6.5%;
     width: 60%;
 
@@ -71,10 +71,10 @@ img#popup{
 h4#titrepopup{
   z-index: 1;
   position: absolute;
-  font-family:'Bebas Neue', cursive;
-  font-size: 1350%;
-  margin-left: 11.7%;
-  padding-top: 33%;
+  font-family: Le Murmure;
+  font-size: 900%;
+  margin-left: 9.5%;
+  padding-top: 35%;
   margin-top: 10px;
   color: black;
   opacity :1;
@@ -88,8 +88,8 @@ p#parapopup{
     color: black;
     font-family:'Bebas Neue', cursive;
     font-size: 120%;
-    padding-top: 49%;
-    padding-left: 12%;
+    padding-top: 48%;
+    padding-left: 9.5%;
 }
 
 
