@@ -1,4 +1,3 @@
-
 body{ 
 	background-color: black;
 
@@ -10,10 +9,11 @@ body{
  h2{
   z-index: 1;
   position: absolute;
-	font-family:'Bebas Neue', cursive;
+	font-family: Le Murmure;
 	color: white;
-	margin-left: 10%;
-	font-size: 1050%;
+	margin-left: 28%;
+  margin-top: 13%;
+	font-size: 1100%;
 	font-weight:lighter;
 
 }
@@ -25,7 +25,8 @@ z-index: 0;
 position: absolute;
 margin-top: 0%;
 height: 100%;
-padding-left: 20%;
+padding-left: 0%;
+opacity: 50%;
 
 }
 
@@ -35,12 +36,12 @@ padding-left: 20%;
 h3{
   z-index: 1;
   position: absolute;
-	font-family: 'Bebas Neue', cursive;
-	color: #fad337;
-  font-size: 400%;
+	font-family:'Bebas Neue', cursive;
+	color: white;
+  font-size: 398%;
 	font-weight:lighter;
-	margin-left: 10%;
-  margin-top: 20%;
+	margin-left: 28%;
+  margin-top: 25%;
 }
 
 
