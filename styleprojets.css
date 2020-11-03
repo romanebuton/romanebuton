@@ -1,5 +1,5 @@
 h1{
-  font-family:'Bebas Neue', cursive;
+  font-family: Le Murmure;
   color: black;
   font-size: 400%;
   font-weight:lighter;
@@ -28,7 +28,7 @@ h3#titreinfini{
   z-index: 1;
   color: black;
   position: absolute;
-  font-family:'Bebas Neue', cursive;
+  font-family: Le Murmure;
   font-size: 650%;
   margin-left: 36%;
   margin-top: 0%;
@@ -49,7 +49,7 @@ p#parainfini{
     font-family:'Bebas Neue', cursive;
     font-size: 120%;
     padding-top: 11%;
-    margin-left: 50%;
+    margin-left: 47%;
     width: 47%;
     opacity :1;
     transition: 1s;
@@ -80,10 +80,10 @@ div#bandeau2 {
 h4#titreoulipo{
   z-index: 1;
   position: absolute;
-  font-family:'Bebas Neue', cursive;
+  font-family: Le Murmure;
   font-size: 770%;
   margin-left: 29%;
-  padding-top: 4%;
+  padding-top: 1%;
   margin-top: 10%;
   color: white;
   opacity :1;
@@ -98,7 +98,7 @@ p#paraoulipo{
     color: white;
     font-family:'Bebas Neue', cursive;
     font-size: 120%;
-    padding-top: 24%;
+    padding-top: 21%;
     margin-left: 29%;
     opacity :1;
     transition: 1s;
@@ -132,9 +132,9 @@ div#bandeau3 {
 
 h4#titrechindogu{
     color: black;
-    font-family:'Bebas Neue', cursive;
+    font-family: Le Murmure;
     font-size: 800%;
-    padding-top: 15%;
+    padding-top: 25%;
     margin-left: 43%;
     line-height: 90%;
     opacity :1;
@@ -149,8 +149,8 @@ p#parachindogu{
     color: black;
     font-family:'Bebas Neue', cursive;
     font-size: 120%;
-    padding-top: -50%;
-    margin-left: 43%;
+    margin-top: 10%;
+    margin-left: 42%;
     opacity :1;
     transition: 1s;
     width: 25%;
